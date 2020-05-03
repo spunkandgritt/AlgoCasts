@@ -1,0 +1,1518 @@
+[33mcommit dcd024cfaaa2cbc53ad46ca4e02311307952512f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mithun Gudipati <mgudi02@safeway.com>
+Date:   Tue Apr 28 17:36:02 2020 -0700
+
+    palindrome with permutations
+
+[33mcommit 33b207baf6e5a3995465c64232e6ac6d6dd72b77[m
+Author: Mithun Gudipati <mgudi02@safeway.com>
+Date:   Sun Apr 26 17:56:39 2020 -0700
+
+    asdas
+
+[33mcommit f053cd13a40d07e9cee08515a43062fa7d7d2417[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Dec 12 10:50:23 2018 -0700
+
+    Update index.js
+
+[33mcommit f0cce74b3e63ea495cb130bac0fae3195aa7485d[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Dec 3 11:04:11 2018 -0700
+
+    Update test.js
+
+[33mcommit 32b9e8be1e4cc8ea0aadb8bcfc90b15ba86846ff[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Dec 3 11:03:51 2018 -0700
+
+    Update README.md
+
+[33mcommit 8aa9affeb0e9ac5678e67de9b45e80b5a9c735bc[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Dec 3 11:03:34 2018 -0700
+
+    Update test.js
+
+[33mcommit 60587afbf8b00e3d15c8cf538f849b96adc7e53c[m
+Merge: 46139e9 3608c82
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Sep 14 17:17:19 2018 -0600
+
+    Merge pull request #34 from StephenGrider/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 3608c82ee5596528f8966c92a29f64c2210343ca[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Sep 14 17:17:09 2018 -0600
+
+    Create LICENSE
+
+[33mcommit 46139e9be6ef0b24b07162cd84acc4172d6fa377[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Aug 1 11:22:36 2018 -0600
+
+    Update package.json
+
+[33mcommit 408cf182289fb3f6e47a4b268e067e254b2b5ff1[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Nov 28 09:38:46 2017 -0800
+
+    Update test.js
+
+[33mcommit 101dcb6cba0b62f83d043b00e0a3eda18f5f7b4e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 15 14:15:44 2017 -0800
+
+    Create README.md
+
+[33mcommit f06564511c9ac62e615a21d3337490ebe98a5e23[m
+Merge: 1f0dfd5 36488b3
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 15 14:15:32 2017 -0800
+
+    Merge branch 'master' of github.com:StephenGrider/AlgoCasts
+
+[33mcommit 1f0dfd5f5d6fb8bdd15afb1073a3b6cece0df7ed[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 15 14:15:06 2017 -0800
+
+    completed exercises
+
+[33mcommit 36488b319bf5bd30d6acd312b6216e23f0c0b31c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Nov 14 10:20:45 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a620cc6c5846f3912afb03032d5d69d0023f78f8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Nov 14 10:16:11 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 0a1072fa3b4f6c92a2d3d34fe870c6e3b8443611[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 16:20:39 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a84ba716be5d771b6e5defdd2157476fca7efd11[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 16:18:34 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit d094a4f0c18de8940d00837bb7486a636d7f01df[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 16:17:45 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 1d4583e1a8ce4d9247f380f4356aa9178b9f2b82[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:58:29 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a1d5bb97ecab6f6f9a7c937ae69a834ff3cf5a9e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:49:42 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 256b79443a407f6e40d3452dc74a82fb06b0298a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:43:07 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 26c70dbfcd9a53e61bdc1e2cdcd900669ab6b159[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:18:01 2017 -0800
+
+    sort
+
+[33mcommit b66d697e4150abfbe75040a0dc3961e403dc0d05[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:16:47 2017 -0800
+
+    bst
+
+[33mcommit 6c9cb7826aac431abdc3feceaa61d4609694cd98[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 14:04:38 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 654f85480e5cea17e6ce3c662af137229868cce6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 13:41:28 2017 -0800
+
+    Added diagrams.xml
+
+[33mcommit cab00ec604b015da7deee981e93755aaf26b121e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 13 11:22:55 2017 -0800
+
+    bst
+
+[33mcommit 1a349ffd2538f8a323c29c6a6e9cdfc6080e5aaa[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 11:19:30 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 1ef9c66d8b41caa6439dcc3c5a00e56aa254b520[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 13 11:04:25 2017 -0800
+
+    events
+
+[33mcommit bb6e2e5279cc47f69ae7661debc32370ebaafdf1[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 10:57:55 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 39d4d86381ccd58f212d00365de2c2074b774d75[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 10:42:50 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e17a68ea3626c243a5fb4230b225ac3c1e327096[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:59:20 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit c1caa412e2e2299cc264e90da6b9b593def90489[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:58:42 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 90f385651cdaa881c00e948b3817277782ad7e17[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:56:01 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit abb5dbf08a605d4631d9a5f4f7b24e2946bb453c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:55:22 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 6325ced38be2bdadd8f493dadbd29ca4af7bacad[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:53:35 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit ffb0331232bef49aac8eaef1a978d1f522968d52[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:53:09 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit dced4eb1454bc7aa0b601b5c4b23356f6ac01ecd[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:51:22 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 8978c69a82d86ed7f8743681b3a97daf9185ba30[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:47:59 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 9126229b38f7f9ea7b52f5ad959e0f822dfd708a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 13 09:37:50 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 7eaed0d7d513602b37d32c0574e3a43b8977f7cb[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 17:07:06 2017 -0800
+
+    events
+
+[33mcommit 2353e636399e72d814ab810cfa300c969c408fd6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 16:52:15 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 72eeb9f82c7c90306a98c5585a5ff0ca639dc1ec[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 16:25:56 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit f86fca808f1f723416a9d3e07cca7e6f33e23d77[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 16:25:52 2017 -0800
+
+    validate
+
+[33mcommit 01b1caacb92ab07b7b09adde0e3e82c9b4ba551c[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 15:43:00 2017 -0800
+
+    validate
+
+[33mcommit ee474645e9b5ca8c1c192a9a4ab6af050b77b608[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 15:05:37 2017 -0800
+
+    validate
+
+[33mcommit cf04144ba36cd067b03196f5249277975cd4629f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 15:04:27 2017 -0800
+
+    bst
+
+[33mcommit a14b1d9497a05639099eb7e434f89b5565d9d868[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:49:18 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 5ba6869e248ef3d78fb35f7d68524e9ce447d5fc[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:23:25 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a6214838e073a9f3820ed86cdf774a1594285c8e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:17:20 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 35ac131419979f87464caea5c8d2abdfa2b398ff[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:16:56 2017 -0800
+
+    bst
+
+[33mcommit 6a389e528b7e1828ec5bce4384ef3968ea0bf4cb[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:15:12 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit fe32bd26688dc61b7cd2dbf436e4faed6af7ced7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 14:00:21 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit d31c7e75ad1e432dcf12b5e3b3896a74a1c34672[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 13:57:11 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 5b85bd3c19419b0c69157707199a3634cf2f35ff[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 13:27:29 2017 -0800
+
+    Added diagrams.xml
+
+[33mcommit 686ab30b68ad87c419ede3e647daa64a84205460[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 12:44:04 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 39521ead506533d403cf48aa16dfe04dab676b5b[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 12:33:05 2017 -0800
+
+    levelwidth solution
+
+[33mcommit b4e95e34219149edefb49fa3eff0862ea61dfc9f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 12:12:51 2017 -0800
+
+    width
+
+[33mcommit d7a436c4e92a4b78152f2513e0274e93c1edc7bb[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 12:08:54 2017 -0800
+
+    width
+
+[33mcommit 237bf393ab65c966597617b08995bc5ff443c5d5[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 12:06:45 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 04261386810e442cba83456719a858afac26d477[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:39:52 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 37cf6538d986b5bb6a5d9e794faf02a639fde233[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:39:43 2017 -0800
+
+    tree
+
+[33mcommit 5a291b567a18d3b13db7e93acae7f95043a07352[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:14:04 2017 -0800
+
+    tree
+
+[33mcommit 49d7b90b96d2962138e726350eb4d6ab79cd84ed[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:12:46 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 1d6630643c701bea1bc73a780aaecc344dde136c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:00:42 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 3ce8bcc1afbac146790e8552f8859215fd85792e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 11:00:27 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 4a4f5b58a40d95cc65e70c5a7265ba25428b33ad[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 10:50:23 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit be00d37c803166900f61b75dccfcd4629f621666[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 10:47:00 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e9bd2e19978f085045f56a709109eb171506a549[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 10:39:40 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 9f7c2f3fea6b5377796dd708e189d6506b088e8e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 10:38:40 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 187a4f46c1244e780489c6724449768c6f1fb99c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 10 10:17:17 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit fe31129a87596797ebb7bfd596eb87b01376cfd5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 17:07:24 2017 -0800
+
+    tree
+
+[33mcommit fdebbfdab37b57b7714abc6279f7415d03441a82[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:29:25 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 08b20dd9f1df537d322aac797383cb7006f133a9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:17:59 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit ff10b7a74e1e26fe3e694f08233cac43ebbd802b[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:16:50 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 2286f8e01c4f7d1d34e9b3d442519ab305896585[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:16:47 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 7c47a31ff6b1a794908cfa6d3b97a328b59c2c73[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:11:02 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 7251bfd022d1d6abaf7924299ceec2638307d3b7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:07:31 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit add7232b06bfd405304f2ab76cb9a0c4c30214a1[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:01:48 2017 -0800
+
+    Added diagrams.xml
+
+[33mcommit 4c452f916bb6d484d1aac98338e00c38dd6ecffb[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:01:19 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 3aeb24baf9a53509e0a362acea92778ba1b104f9[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 16:01:12 2017 -0800
+
+    from last
+
+[33mcommit ea21cc3f8ad072f931c3bcde796546143b1cb012[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 15:51:16 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit b0bdda388f478f47718a065c290883601b0c4a17[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 15:45:18 2017 -0800
+
+    fromlast
+
+[33mcommit 08d2a281f4a47408cb817aaf822a49917973db06[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 15:43:07 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 949374b72ac744c7fd3ee03d67ce7527549b482a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 15:13:42 2017 -0800
+
+    fromlast
+
+[33mcommit 7fb0bb4be930a4dbce21358df23cc57dae23c520[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 15:02:56 2017 -0800
+
+    circular
+
+[33mcommit 437947886a22004f29309ead487f329bd8156236[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:50:03 2017 -0800
+
+    circular
+
+[33mcommit 5cd07cc98d6f168d34372a4e80405cfdbbcc4d53[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:49:33 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit d3ed8891aa6c1ed78b39a7fbb5d085238c9c6c36[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:39:50 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 34c0a86c55bc716c9d25c36b110bfb867b03cf07[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:35:50 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 0c189a7c7b9888f828119460251806f40e8250f3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:34:18 2017 -0800
+
+    midpoint
+
+[33mcommit d24f211d80f6985bd9201e96ca014078f4df1f0e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:19:15 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 65a6e3ef0212f264729befec211357d7931355a8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:10:18 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 860b91facdd3621bf8e02f32e463f88822dc45a9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 14:02:07 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 5c82ca3d9384c2264b6fd7fabfe7ec1360ff4b12[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:59:52 2017 -0800
+
+    Added diagrams.xml
+
+[33mcommit 1201e0ba3259fa306dd521f1f4c552754176660c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:59:34 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit d36133fa378d52c64f0e9d2ea0f8ba575a5f17c2[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:58:40 2017 -0800
+
+    diagrams
+
+[33mcommit 3cc4f14616484cad562fcecded43c0e775582a23[m
+Merge: 16f3ea3 c13cbb6
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:57:56 2017 -0800
+
+    Merge branch 'master' of github.com:StephenGrider/AlgoCasts
+
+[33mcommit 16f3ea3df989a3a45e25f2d75a97c671cd97db15[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:57:47 2017 -0800
+
+    linkedlist
+
+[33mcommit c13cbb68ecc116f6b3f4a27258c64ff9b5e0450a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:57:36 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 666802a4c75f780c292ea0f297ff612487cbfe45[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 13:49:19 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit aab58ffabdbf4df7a7e4a6cd37e6099f0891789a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 12:55:49 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 818927293343a9d58ee63bca24461b92daa0f989[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 12:32:16 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit cc7b1284e12e96a3a37d8fe953befbad77a658d2[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 12:29:24 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit ff8348f9f52f833e6fe11279dfb7456c3f748a48[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 11:47:40 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 83cdcd05cbeb7307ec8983abd699e8ca64fe19a0[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 11:16:25 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit fe4d080121bf7dfe3b4199841b931001d0c5777f[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 11:07:54 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 6b28d36b0d56fb1c3b3713a127213733e0c93e77[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 10:54:47 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 5e8d090a4e26a996579da5ab14f8c49e8c12328c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 10:47:40 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a89c6f24b5b8075c6d7c8a586b7eeecafed1c102[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 8 10:45:40 2017 -0800
+
+    remove first
+
+[33mcommit 26026cf07fbe36c2a075083f275cb8e441055633[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 8 10:44:55 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e3df27470116e70d13e09415f5172ebf9d4c39c8[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:47:39 2017 -0800
+
+    clear
+
+[33mcommit 596bbfd81611c3a7796a0bd74e3b3d33ae511727[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:42:46 2017 -0800
+
+    get last
+
+[33mcommit 4b9ee986ab9e1e91053e7d0801ccc53252d3511f[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:38:49 2017 -0800
+
+    getfirst
+
+[33mcommit ed139e74d9d6feaf6d422b1317631b94b9457f08[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:33:51 2017 -0800
+
+    size
+
+[33mcommit 8d1abef755320f278334c2cf510da80d85a3d0b2[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:24:59 2017 -0800
+
+    insertfirst
+
+[33mcommit a85b581f687b1112a041d03ffb207c122bda3160[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:24:38 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 4f8b0d703ef3206f1256fa3957a75751c1d50e95[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:05:55 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 471dc633af6518a2fddb794b64703955dffbfbc7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 20:05:14 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 6ba83627d5a8c80ce459d78c97bc7f5c35067001[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 19:58:34 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 13fa5a0aa43ff62696364291b70293d4de32d90a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 19:58:05 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 801e7c7bfcdfaf968755bb38ee1578bbb29f2544[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 18:03:28 2017 -0800
+
+    node
+
+[33mcommit 065281a109f67a4d5afa102109c499ad6e11d532[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 17:55:46 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit b2447bd10811ba47592752de696e6881d9fc8117[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 17:53:04 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 80261b4501a8a636a91b7da87514f080d7212fd6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 17:26:51 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 1294b2c563072c561b80f07503b2cc3ea9b58b90[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 17:25:41 2017 -0800
+
+    skip
+
+[33mcommit 5010f7510fd2e2d30208e8ff566fb146b6381884[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 17:25:24 2017 -0800
+
+    directions document
+
+[33mcommit 6427fd73d6a9dc332a0b46692d287b754b38dca1[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:55:51 2017 -0800
+
+    linkedlist
+
+[33mcommit 7d12295ec1f8cfc4d0347bbc9c0587fc9aea9f2f[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:50:24 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 80723f8ee94afed35dd3ccf8f75c8969976aad86[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:48:55 2017 -0800
+
+    node
+
+[33mcommit 899a0a45320a424138db8484a24eec1fb9e83e6e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:40:19 2017 -0800
+
+    list
+
+[33mcommit 044403230901842538765ef6d0589c9b71984c03[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:39:46 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 89c6e2fe20fc0dae7f3493be6ef2916008fc3126[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 16:29:36 2017 -0800
+
+    qfroms
+
+[33mcommit 728287f34ef060471abbf624e3b49a0451c0e6bd[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 15:59:47 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 001369ab48825fa8547c01a1a454177a5198f98d[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 15:41:27 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 20f9f4ad8b8e531eaf03e6c35c0d96e980186383[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:55:36 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e15fbd018ea5f3d29e1d8b589bb0538c6585f025[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:55:29 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 0bc7b781b81f13cb1d14e27a0510b3330d4cc1be[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:55:19 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e6fe436ebc5e3dac56dde052cb5a563d41b9f1ad[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:55:14 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 9757a6ec36ee27cb12b9db2779bc6e0612fd64ea[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:51:35 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 46998d57d297a31fb402c17bb8cf99d28a60fcc2[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:49:29 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 62940904acc587443dfd2d145bbee76ef872b200[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:28:02 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit abac90a7c66fa30939a00797c7e8135508e22ddb[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:27:33 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit d137a8a6b9247df5fd3c409e405dad89477299c2[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:21:54 2017 -0800
+
+    Added diagrams.xml
+
+[33mcommit b691d772a6f2476cd51d146dd35dec8c778bb575[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:21:36 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 1f2d34b7a10e09046152b9220f4ef91e22e9bbc4[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 14:03:01 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 095fce2bbd8b4f171a82fe2ad52cf17a62726ba8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:50:09 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit a67e77e9a70001362eeecf2a3513bd255030f542[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:48:40 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 222e5834712e7b81d5aa0016d3a07ca96895670a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:47:39 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit e0cf20ceb512def99826fc923c5c08ff9602339b[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:45:10 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit 5c44c8937cccc9836a9fddfaf0dadc516bb259d5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:44:47 2017 -0800
+
+    stack
+
+[33mcommit 209a6971033ec38a37e86524b68956f3a549b42e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:31:09 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit c6998a41683fe0b3ec27a22bfa9c874af2367a7e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Nov 6 13:29:16 2017 -0800
+
+    Update diagrams.xml
+
+[33mcommit aa41baabfb8296cb3cd301f6a4b6380b20ffbcc3[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Nov 6 12:24:34 2017 -0800
+
+    added
+
+[33mcommit 1ff7d374feaeb52c5cf11170aa4116a27bebeda4[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:39:31 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 62b0cdfc1c2275fdcc6982b1236653ad3323f7d9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:38:59 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 6ce991193804098be2ad1650a3b27739f1db405c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:38:38 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit ded01913307fe6a3c52e6e3b364fa14438381a0d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:34:34 2017 -0700
+
+    weave
+
+[33mcommit f8d6466c158689dca8354a3bd4b86aa99b51f85e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:33:05 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit ad1523e363b48bdf6893a1bc10f57dcddff6beca[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:32:48 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit ffac08bf010334861efe22a51ea0d14f680e4451[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 16:25:51 2017 -0700
+
+    weave
+
+[33mcommit e65d461aadf6d2c69de39e2e33a1cfaa06456343[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:41:32 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit b28f59d5acfb7f74cd68b5a3ab8b3133df929c3e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:37:59 2017 -0700
+
+    queue
+
+[33mcommit a44fa40e4df2dd1fbf7acbbde588b4e1ed36548d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:30:51 2017 -0700
+
+    queue
+
+[33mcommit 7c535fecbb539f91776feca20a22aca2c695f405[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:29:21 2017 -0700
+
+    added queue
+
+[33mcommit 08f86e5cb835c263f87a86b300250b0ab3c24866[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:03:44 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit d1133b9a7ab36e7f49b044db8da407ce7b1135e9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:03:09 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 58240836682213ca50b9b1ffe4754e4b19307113[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 15:00:25 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit c36fe32639ecf4cbcb09a8dcba332ae2d763b813[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:58:11 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 7576298a275cda2da2b7e0fd2d4e87cbb6fea6d9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:57:30 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 9cf786484478fedbbb4a9e7593659ef4e11cd8ea[m
+Merge: faf3649 875fcab
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:55:28 2017 -0700
+
+    Merge branch 'master' of github.com:StephenGrider/AlgoCasts
+
+[33mcommit faf3649a9f0177fd4a755db9758a3493aefb9b9a[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:55:23 2017 -0700
+
+    diagram
+
+[33mcommit 875fcab239bf6bda9654e1b0bc4126fd651c9051[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:54:55 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit d23106a6316d317dd7a6e85ab338abc52da95efe[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 14:53:22 2017 -0700
+
+    fib
+
+[33mcommit ca6e52687bff87f2c1da732912d3d6f552fce3ed[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 12:28:36 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 5805eace12e697f8e6f39896745ab0d5bc8df5d0[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:49:07 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit db9e875525abb259cff4d301076be40c8647bfce[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:31:00 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 37ad354636d71232150d02a6c5bf26b16cd833de[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:30:50 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 7d367a443cc42a07eb47fd19584022af9d9305ba[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:27:56 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 315de44d34a684a250d7e06459e8dbf3f78f7ca0[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:19:54 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 0d7d7c14476814174f5af3227aba17f3c0a2732e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:19:52 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 43d1b29602dcda797fa3272ef16ed0f5f00bb3c0[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Nov 3 11:18:19 2017 -0700
+
+    matrix
+
+[33mcommit cabb369734a1a6a6a700fd4c666ae89ee4cd6f86[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Nov 3 10:12:51 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 350bfe16d1ae2609d2d62f874852a4f9357cb230[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:49:43 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit e0894e22f8b546438b6d207c791472bf58c88652[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:48:11 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 4bd0ea005bbca3b951d76447af14f65c7613e21a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:46:05 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 61a8c859788172f126c781b652c70f0a4b5bb7f2[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:18:40 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 39cbc1dbd2fd09bf423d989aa2299dd60de12d93[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:18:19 2017 -0700
+
+    Added diagrams.xml
+
+[33mcommit 0efd82ec56da9b9dccb3208bd4a457100125a085[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:14:05 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 0f1b568acac17ea3694f2a55a1979308bf707df5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Nov 2 17:10:23 2017 -0700
+
+    pyramid
+
+[33mcommit 2f87df10cd051f27b27e80fec631c2ca26c40f16[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Nov 2 16:20:13 2017 -0700
+
+    vowels
+
+[33mcommit 4443165061361eb96f114abf6928d24fcac0194c[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Nov 2 16:00:52 2017 -0700
+
+    steps
+
+[33mcommit d3ccb61fd187b07184a5a22a5d8723d700631f76[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 15:08:07 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit f5eaca9bfede45e6f37a047ac191bf677c72fa02[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 13:00:05 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 94bf6dd691fe96386edac91c36f29fe86d88919d[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Nov 2 12:50:51 2017 -0700
+
+    capitalize
+
+[33mcommit 745170141d8da425ae602ffc9cfc016abc0f2b45[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Thu Nov 2 11:38:25 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit c5a4aa234009af9a623105734e0846b734b23af0[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Thu Nov 2 11:20:19 2017 -0700
+
+    additional
+
+[33mcommit 289133cd08fa825080a64736a951e4698ce6fb4f[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 1 16:34:15 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 96b739cfe0409440c708e5983e7929203ecb5525[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 1 16:33:32 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit d5be683a283a605a0f8800c37c3b998af67e387c[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Nov 1 16:19:44 2017 -0700
+
+    anagrams
+
+[33mcommit a5f4058ecdbbd45537ba4681b48b96f6a6a9c3b7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 1 15:54:08 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit d1c39d422e88de2f843e149ffc7dbde53f8cae78[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 1 15:37:58 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit b861bac5f0be1ed2ff0d61c30bfaad8f4084cf5e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Nov 1 11:27:39 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit daafa68e02b88ef5282ffcbca95ee16cf80171b7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 16:45:51 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit c8a92b2c0d46c6af8cbb17d5eb0fa0f30338f8fd[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Tue Oct 31 16:32:58 2017 -0700
+
+    code
+
+[33mcommit 5f0aa0606b904566d885984fa85a1194e4464bdb[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 16:27:31 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 7bc760da3a0c1491a45291e74a855a9274ed7eb6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 16:20:02 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 6e11fa4cd8d6c34957c0fb7679acc22d18e3a8cd[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 15:55:37 2017 -0700
+
+    Added diagrams.xml
+
+[33mcommit 584622a2a57cb8857b7f95d819bb3bcf56f2dcc8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 15:12:08 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 6ac59c3f5710ef64c163f79615344f47311594ef[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 14:05:03 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 96121252f6f34c874e153040dfd5375a6e024e8e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 12:49:24 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 0aa385a7f22676582179691e2517dce18a1921dd[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 12:39:12 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 56d414bb27908df8dc9b6fd5f9877b2707329eb8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 12:01:14 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit eb230ba57bb3a2167de5b5cf2e21e7b3216d0044[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 11:51:47 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 31978536262f9c6d58f2468be68d8415365f8e78[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 11:46:03 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 81f89ad49ebd3da45d5f13e7d4dd133e214743e4[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 11:22:23 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 79e4b34b655ea2ed1175b08542f16eadf03f478d[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 11:21:12 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit a983a1858bfec793364b5b3e34eb397ab3059620[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 11:14:02 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 3cf71f3371f4b671f2e16adf89079618438f1190[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 10:50:27 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 61e8554797dc728021bbb356b6736e6f571ea6e7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 10:28:02 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit bacc78944764a6a1311a2263561fd1946ff16349[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 10:10:18 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 7758d75415c104da846faabc34633f5c2d1bf7fa[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Tue Oct 31 10:03:21 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 4cd3ee5a691ef9810cf481ccd7ae690e8a877edd[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Oct 30 14:11:21 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 985cc06ac62786b48fb9ae54eb140ce6d1f07c15[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Oct 30 11:27:29 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit fc809731ccd0775e25729511a2a1c709cf3282a5[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Mon Oct 30 11:24:28 2017 -0700
+
+    Added diagrams.xml
+
+[33mcommit b1dd3993965242da81522b7affd5cda5a41ea4c1[m
+Merge: 11ac28e b0f94b8
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Oct 30 11:00:55 2017 -0700
+
+    Merge branch 'master' of github.com:StephenGrider/AlgoCasts
+
+[33mcommit 11ac28ee8a6444090ec6258873cb04365107603e[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Mon Oct 30 11:00:49 2017 -0700
+
+    Added descriptions
+
+[33mcommit b0f94b8ff7ccdaab5327a8f0202f054d3c4079e0[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 15:25:53 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 67066231ec440f14fd97b346709608982ed1ca88[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:36:34 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit b60a9e5e0262003c3e6c712c90d0c59846715bd7[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:36:29 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 9c36d11ec4ca1a33ceb8d028ab885c9ae7cec4d6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:34:06 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 206cdec681107dd36443aebc98de94271baf6986[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:25:39 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 2c8e59018832a9c0344d9bc1bc59f034d77bdbb4[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:23:36 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 187526a85e29dd0b3ac1a6b5fdbc02dc92666f51[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:19:48 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 5f69f4341c0dc9ec1a36c861e11731c8c32f954e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:17:33 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 12321d61a6215845b969022cb866b073f8247cf8[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:16:54 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 45e21b93147eef030aa19cd35ab8a34f96cd81ac[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:15:34 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 293250071498583518e672be0ee1017110a286d6[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:14:42 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 308ad370b5338a2c1a7f7cc5bbbcf7db32415f9a[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:10:50 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit a37c04a94d1ad27bb35df91e8e4e613d1a4abc40[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 12:03:30 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 56e92f3d799bf04eb7d1319027e20bc27621a11c[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 11:54:10 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 9193866f3d2bcde03dccd75d1e972b3010523b51[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Fri Oct 27 11:51:10 2017 -0700
+
+    Added diagrams.xml
+
+[33mcommit 2bc961aba49d5219a8c1eaccd38acb5c37e4c8f5[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Fri Oct 27 11:50:48 2017 -0700
+
+    initial commit
+
+[33mcommit 3d9a9f9b84ac6602df4a5c1370d34eb219d35b61[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 15:17:43 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit b8b1c6294b267fe037a10567de3a05a24c9dcc71[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 14:04:44 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 07eac0e08be38ba2d84e75619530a18ff3660ec1[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 12:30:31 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 73806e5bbc12694bdee4ca85694bcedf358faaa9[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 12:06:29 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit c6987b339d7f686046109cb5079964f58b3d29b0[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 11:59:05 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 53c9784bc057c147fc806e83776f77de68d8f4e3[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 11:33:03 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 355a0421809f53dd16789f8c72544856e6e91111[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 11:22:30 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 9538a0381efb417e4be1e841f6d91968b25d623e[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 11:13:16 2017 -0700
+
+    Update diagrams.xml
+
+[33mcommit 9750eaa8f5ea5b63917d149919625dbd7e29b7d5[m
+Author: Stephen Grider <ste.grider@gmail.com>
+Date:   Wed Oct 25 10:45:44 2017 -0700
+
+    Added diagrams.xml
+
+[33mcommit fa8c522a9f9c75e31b91556746b4e5b4ba436f1b[m
+Author: stephengrider <ste.grider@gmail.com>
+Date:   Wed Oct 25 10:44:36 2017 -0700
+
+    initial commit
